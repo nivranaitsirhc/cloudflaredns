@@ -1,37 +1,18 @@
-<h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
+# **Optimized GPS Conf**
+## Description
+A magisk module to use Cloudflare as your DNS provider
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v2.0-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-January 21, 2022-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-  <!-- Min Magisk -->
-    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" /></div>
+Fork from Module - <a href=https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk>CloudflareDNS4Magisk</a>
 
-<div align="center">
-  <strong>MMT Extended is the spiritual successor of Unity and makes magisk module creation easy. Instructions in the 
-    <h3><a href="https://github.com/Zackptg5/MMT-Extended/wiki">Wiki</a></h3>
-</div>
+## DISCLAIMER
+This module is provided as-is. Always use the stable version.
 
-<div align="center">
-  <h3>
-    <a href="https://github.com/Zackptg5/MMT-Extended">
-      Source Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/Zackptg5/MMT-Extended-Addons">
-      Addons Repository
-    </a>
-    <span> | </span>
-    <a href="https://forum.xda-developers.com/apps/magisk/magisk-module-template-extended-mmt-ex-t4029819">
-      XDA
-    </a>
-  </h3>
-</div>
+## Versioning
+```
+A.B.C - Version Code
+AABBCC - Version Number
 
-### Usage
-- [Follow the directions here (DO NOT FORK)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-- Then follow instructions in [Wiki](https://github.com/Zackptg5/MMT-Extended/wiki)
+Major - A.0.0
+Minor - A.B.0
+Release Candidate - A.B.C
+```

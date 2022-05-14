@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
+id=cloudflaredns
+name=CloudFlare DNS for Android
+version=1.0.0
+versionCode=10000
 author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+description=Magisk Module to use CloudFlare as your DNS provider.
+updateJson=https://raw.githubusercontent.com/nivranaitsirhc/cloudflaredns/master/update.json
