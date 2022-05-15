@@ -1,7 +1,7 @@
 id=cloudflaredns
 name=CloudFlare DNS for Android
-version=1.0.0
-versionCode=10000
-author=Zackptg5
+version=1.0.1
+versionCode=10001
+author=nivra.naitsirhc
 description=Magisk Module to use CloudFlare as your DNS provider.
 updateJson=https://raw.githubusercontent.com/nivranaitsirhc/cloudflaredns/master/update.json

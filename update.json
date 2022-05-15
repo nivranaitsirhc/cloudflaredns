@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "versionCode": 10000,
+  "version": "1.0.1",
+  "versionCode": 10001,
   "zipUrl": "https://raw.githubusercontent.com/nivranaitsirhc/cloudflaredns/master/install.zip",
   "changelog": "https://raw.githubusercontent.com/nivranaitsirhc/cloudflaredns/master/changelog.md"
 }
