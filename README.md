@@ -1,4 +1,4 @@
-# **Optimized GPS Conf**
+# **Magisk CloudFlareDNS for Android**
 ## Description
 A magisk module to use Cloudflare as your DNS provider
 
